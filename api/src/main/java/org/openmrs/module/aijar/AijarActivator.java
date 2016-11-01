@@ -51,6 +51,7 @@ import java.util.UUID;
  * <p>
  * TODO: Refactor the whole class to use initializers like
  */
+// Added Comment
 public class AijarActivator extends org.openmrs.module.BaseModuleActivator {
 
     protected Log log = LogFactory.getLog(getClass());
